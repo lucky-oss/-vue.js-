@@ -1,24 +1,28 @@
-# luguangyou
+# 基于vue.js的仿网易云官网demo
 
-## Project setup
+## 首先需要下载网易云官网api项目
+```git clone 
+```
+## 然后运行api
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
+```
+node app.js
+```
+## 然后下载本demo
+```
+git clone git@github.com:lucky-oss/-vue.js-.git
+```
+## npm下载依赖
+```
+npm install
+```
+### 开发模式下运行
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
+### 生产模式打包
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
