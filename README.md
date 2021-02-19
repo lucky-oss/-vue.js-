@@ -1,4 +1,11 @@
 # 基于vue.js的仿网易云官网demo
+```
+git clone https://github.com/Binaryify/NeteaseCloudMusicApi.git
+```
+或者
+```
+git clone git@github.com:Binaryify/NeteaseCloudMusicApi.git
+```
 
 ## 首先需要下载网易云官网api项目
 ```git clone 
