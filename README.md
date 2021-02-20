@@ -31,3 +31,6 @@ npm run serve
 ```
 npm run build
 ```
+## 部分效果图展示
+![image](https://lgy-test.oss-cn-guangzhou.aliyuncs.com/%E9%A1%B9%E7%9B%AE%E6%95%88%E6%9E%9C%E5%9B%BE/%7B%603%5D1EP6SQ%5BT%402FXJBD%40WV6.png)
+![image](https://lgy-test.oss-cn-guangzhou.aliyuncs.com/%E9%A1%B9%E7%9B%AE%E6%95%88%E6%9E%9C%E5%9B%BE/EDT7GLW%28CRRYN5%7BXG4S33%292.png)
